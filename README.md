@@ -30,7 +30,7 @@ zlib
 
 ## Installing
 
-1. ```git clone "https://gerrit.wikimedia.org/r/wikimedia/security/tooling"```
+1. ```git clone "https://gerrit.wikimedia.org/r/wikimedia/security/spamaccountstats"```
 
 ## Usage
 
